@@ -1,14 +1,19 @@
-# 📰 Day 1 - AI News Summarizer
+day1_news_summarizer/
+│── main.py              # Main script
+│── requirements.txt     # Dependencies
+│── cnn_headlines.csv    # Auto-generated results
+│── screenshot.png       # Example output (added by me)
+│── banner.png           # Project banner
+│── demo.gif             # Demo of script running
+│── LICENSE              # MIT License
+└── README.md            # Project documentation
 
-## 📖 Overview
-This project scrapes the latest **BBC News headlines**, summarizes them with a **Hugging Face transformer model**, and saves the results into a CSV file.
+📰 Fetching top CNN headlines...
+1. Headline 1
+2. Headline 2
+...
 
-## 🚀 Features
-- Web scraping with **BeautifulSoup**
-- AI summarization using **facebook/bart-large-cnn**
-- Stores results in **CSV format**
+⚡ Summarizing...
+✅ Saved to cnn_headlines.csv
 
-## 🛠️ How to Run
-1. Navigate to the project folder:
-   ```bash
-   cd E:/job-ready-projects/day1_news_summarizer
+
