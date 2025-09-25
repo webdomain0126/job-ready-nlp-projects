@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+transformers
+pandas
+torch
+feedparser
+
